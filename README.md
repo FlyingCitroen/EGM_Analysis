@@ -4,7 +4,7 @@ Analysis of *Electronic Gaming Monthly* (EGM), 1990–1999: how a leading game m
 
 This repository contains the analysis code. Findings are discussed in the thesis.
 
-> **The data is not included.** The magazine content is copyrighted. The editorials and review data were provided for this research by EGM's editor-in-chief, so I cannot redistribute them. The `data/` folder is git-ignored.
+> **The data is not included.** The magazine content is copyrighted. The editorials and review data were provided for this research by EGM's editor-in-chief, so I cannot redistribute them. 
 
 ## What it does
 
@@ -39,6 +39,7 @@ Run them in numbered order.
 | `04_editorial_sentiment_trends.ipynb` | Sentiment trends by year and month, word frequency trends by year |
 
 `filtered_word_frequencies.csv` holds aggregate word counts only, with no original text.
+`reviews.csv` holds game titles, reviewers and ratings, with no original text.
 
 ## Tech
 
