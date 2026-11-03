@@ -38,7 +38,7 @@ Run them in numbered order.
 | `03_editorial_topics_sentiment.ipynb` | Tokenization, stopword removal, word frequencies, LDA topic modeling (tomotopy), topic-by-year heatmaps, TextBlob sentiment by topic |
 | `04_editorial_sentiment_trends.ipynb` | Sentiment trends by year and month, word frequency trends by year |
 
-`results/word_frequencies.csv` holds aggregate word counts only, with no original text.
+`filtered_word_frequencies.csv` holds aggregate word counts only, with no original text.
 
 ## Tech
 
