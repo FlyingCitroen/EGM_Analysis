@@ -1,6 +1,6 @@
 # EGM in the 1990s: Editorials and Game Reviews Analysis
 
-Analysis of *Electronic Gaming Monthly* (EGM), 1990–1999: how a leading game magazine talked about the industry, and how its reviewers scored games and platforms during the shift from 2D to 3D. Built for my master's thesis, *The Evolution of Gaming Aesthetics and Community in the 1990s as Reflected in Electronic Gaming Monthly* (MA Communication & Information Studies, University of Groningen).
+Analysis of *Electronic Gaming Monthly* (EGM), 1990–1999: how a leading game magazine talked about the industry, and how its reviewers scored games and platforms during the shift from 2D to 3D. Built for my master's thesis, *[The Evolution of Gaming Aesthetics and Community in the 1990s as Reflected in Electronic Gaming Monthly* (MA Communication & Information Studies, University of Groningen).](https://arts.studenttheses.ub.rug.nl/35999/)
 
 This repository contains the analysis code. Findings are discussed in the thesis.
 
